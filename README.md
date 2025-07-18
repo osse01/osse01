@@ -1,5 +1,7 @@
 BSc in Electrical Engineering and in Applied Mathematics.
+
 Studying for a MSc in Applied Mathematics at Liköping University.
+
 Interested in Control Theory, Sensor Fusion and mathematical optimizaion.
 
 Know C, C++ and Python at an intermediate level.
