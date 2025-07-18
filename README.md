@@ -1,7 +1,8 @@
 BSc in Electrical Engineering and in Applied Mathematics.
 Studying for a MSc in Applied Mathematics at Liköping University.
+Interested in Control Theory, Sensor Fusion and mathematical optimizaion.
 
-Know C/C++ and Python at an intermediate level.
+Know C, C++ and Python at an intermediate level.
 
 The BSc in Electrical Engineering was a group project involving an autonomous small RC-car, built from scratch.
 The code for the control systems, sensors and communication was done ourselves. 
